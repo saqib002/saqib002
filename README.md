@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saqib002
+- 👋 Hi, I’m Dildar
 - 👀 I’m interested in Data science, ML, NLP, Data mining projects
 - 🌱 I’m currently learning Data analysis techniques and data science
 - 📫 How to reach me https://www.linkedin.com/in/dildar-ahmed-saqib-163ab5116/
